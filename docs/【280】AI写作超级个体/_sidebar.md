@@ -1,5 +1,5 @@
 - [返回根目录](/README.md)
-- [返回上一级](docs/README.md)
+
 - [docs/【280】AI 写作超级个体](docs/【280】AI写作超级个体/README.md)
 
 ---

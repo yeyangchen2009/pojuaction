@@ -1,5 +1,5 @@
 - [返回根目录](/README.md)
-- [返回上一级](docs/README.md)
+
 - [docs/【574】AI 公众号自媒体 AIP（专业细分）](docs/【574】AI公众号自媒体AIP（专业细分）/README.md)
 
 ---

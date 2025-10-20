@@ -1,5 +1,5 @@
 - [返回根目录](/README.md)
-- [返回上一级](docs/README.md)
+
 - [docs/【651】AI 爆文（蓝海赛道）](docs/【651】AI爆文（蓝海赛道）/README.md)
 
 ---

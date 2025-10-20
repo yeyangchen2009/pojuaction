@@ -1,5 +1,5 @@
 - [返回根目录](/README.md)
-- [返回上一级](docs/README.md)
+
 - [docs/【469】AI 智能体进阶版（n8n 工作流）](docs/【469】AI智能体进阶版（n8n工作流）/README.md)
 
 ---

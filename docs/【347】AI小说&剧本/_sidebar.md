@@ -1,5 +1,5 @@
 - [返回根目录](/README.md)
-- [返回上一级](docs/README.md)
+
 - [docs/【347】AI 小说&剧本](docs/【347】AI小说&剧本/README.md)
 
 ---

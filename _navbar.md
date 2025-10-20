@@ -23,7 +23,7 @@
   - [【85】AI编程商单基础](docs/【85】AI编程商单基础/README.md)
   - [【92】AI企培商单营](docs/【92】AI企培商单营/README.md)
 
-- [AI 破局俱乐部](guide.md)
+- [AI 破局俱乐部](GUIDE.md)
 
 - 其他项目
 
